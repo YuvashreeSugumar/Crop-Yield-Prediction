@@ -1,6 +1,0 @@
-temperature,rainfall,humidity,soil_type,crop_type,yield
-32,120,65,Loamy,Rice,2500
-28,90,55,Sandy,Wheat,1800
-30,100,60,Clay,Corn,2200
-35,110,70,Loamy,Rice,2600
-27,85,50,Sandy,Wheat,1750
